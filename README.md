@@ -4,6 +4,7 @@
 ## Table of contents
 
 - [Overview](#overview)
+- [Useful resources](#useful-resources)
 
 
 ## Overview
@@ -37,7 +38,7 @@ Users should be able to:
 
 ### Useful resources
 
-- [geeksforgeeks](https://www.geeksforgeeks.com) - This helped to identify built in functions that so I didn't have to write some functions from scratch
+- [geeksforgeeks](https://www.geeksforgeeks.com) - This helped to identify built in functions so that I didn't have to write some functions from scratch
 
 ## Author
 
