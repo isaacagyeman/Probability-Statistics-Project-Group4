@@ -4,6 +4,9 @@
 ## Table of contents
 
 - [Overview](#overview)
+- [Challenge](#the-challenge)
+- [Screenshot](#screenshot)
+- [Built with](#built-with)
 - [Useful resources](#useful-resources)
 
 
